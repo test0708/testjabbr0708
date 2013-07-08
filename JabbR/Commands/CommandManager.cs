@@ -7,7 +7,7 @@ using JabbR.Services;
 
 namespace JabbR.Commands
 {
-    //public class CommandManager
+    public class CommandManager
     {
         private readonly string _clientId;
         private readonly string _userAgent;
